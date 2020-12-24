@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+railsと楽天APIを使ってLinebotを作りました。
+欲しい商品名を入力すると楽天ランキング１位〜3位の商品が返されます。
